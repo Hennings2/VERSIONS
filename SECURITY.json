@@ -1,1 +1,11 @@
 
+[
+  {
+    "version": "1.0.0",
+    "changelogs": [
+      "- Several Bugfixes",
+      "- Added VersionChecker",
+      "- Fixed NPC issue that the NPCs got deleted sometimes"
+    ]
+  }
+]
